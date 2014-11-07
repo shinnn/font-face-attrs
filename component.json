@@ -1,0 +1,21 @@
+{
+  "name": "font-face-attrs",
+  "version": "1.0.0",
+  "repository": "shinnn/font-face-attrs",
+  "description": "Array of the `font-face` element attributes",
+  "keywords": [
+    "w3c",
+    "svg",
+    "xml",
+    "value",
+    "attribute",
+    "array",
+    "font",
+    "font-face"
+  ],
+  "main": "font-face-attrs-cjs.js",
+  "scripts": [
+    "font-face-attrs-cjs.js"
+  ],
+  "license": "MIT"
+}
